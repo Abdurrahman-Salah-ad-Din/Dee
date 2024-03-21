@@ -1,12 +1,5 @@
 package data
 
-import isDelimiter
-import isDoubleQuotes
-import isKeyword
-import isNumber
-import isOperator
-import isValidIdentifier
-import isWhiteSpace
 import models.Token
 import models.TokenType
 

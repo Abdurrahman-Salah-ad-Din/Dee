@@ -1,3 +1,5 @@
+package data
+
 /**
  * Checks if the character is a double quote.
  *
