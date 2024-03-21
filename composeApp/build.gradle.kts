@@ -16,8 +16,9 @@ kotlin {
         commonMain.dependencies {
             implementation(compose.runtime)
             implementation(compose.foundation)
-            implementation(compose.material)
+            api(compose.materialIconsExtended)
             implementation(compose.ui)
+            implementation("org.jetbrains.compose.material3:material3-desktop:1.2.1")
             @OptIn(ExperimentalComposeLibrary::class)
             implementation(compose.components.resources)
         }
