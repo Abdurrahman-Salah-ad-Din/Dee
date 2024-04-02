@@ -26,8 +26,8 @@ fun main() = application {
                 }, onRunClick = {
                     isRunning = !it
                 },
-                modifier = Modifier.padding(top = 12.dp).fillMaxSize()
-                    .background(color = editorBackgroundColor)
+                modifier = Modifier.fillMaxSize().background(color = editorBackgroundColor)
+                    .padding(top = 12.dp)
             )
         }
     }
