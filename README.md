@@ -21,9 +21,5 @@ https://github.com/Abdurrahman-Salah-ad-Din/Dee/assets/71145794/56391271-1175-44
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- Special thanks to [Your Name] for inspiration and guidance.
-
 ---
 **Note:** This text editor is intended for educational purposes and may not be suitable for production use.
